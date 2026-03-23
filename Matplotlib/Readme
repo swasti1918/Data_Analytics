@@ -1,0 +1,38 @@
+# 📊 Matplotlib Projects
+
+This folder contains implementations and examples using Matplotlib, a widely used Python library for data visualization.
+
+---
+
+## 📌 Contents
+
+- Line plots  
+- Bar charts  
+- Histograms  
+- Scatter plots  
+- Pie charts  
+- Customizing plots (labels, titles, colors, styles)  
+
+---
+
+## 🛠️ Skills Covered
+
+- Data visualization techniques  
+- Plot customization and styling  
+- Creating multiple plots and subplots  
+- Visual storytelling using data  
+
+---
+
+## 🎯 Objective
+
+To visualize data effectively and communicate insights clearly using different types of plots and charts.
+
+---
+
+## 🚀 How to Run
+
+1. Install Matplotlib (if not installed):
+
+```bash
+pip install matplotlib
